@@ -1,6 +1,6 @@
 mode: set
+github.com/Ulbora/GoProxy/MockGoProxy.go:12.68,14.2 1 1
 github.com/Ulbora/GoProxy/goProxy.go:14.65,19.16 4 1
 github.com/Ulbora/GoProxy/goProxy.go:25.2,25.18 1 1
 github.com/Ulbora/GoProxy/goProxy.go:19.16,22.3 2 0
 github.com/Ulbora/GoProxy/goProxy.go:22.7,24.3 1 1
-github.com/Ulbora/GoProxy/MockGoProxy.go:12.68,14.2 1 1
