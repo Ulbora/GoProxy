@@ -1,3 +1,4 @@
+//Package goproxy ...
 package goproxy
 
 import (
@@ -20,7 +21,7 @@ type loginRes struct {
 }
 
 func TestGoProxy_Do(t *testing.T) {
-	var gp GoProxy	
+	var gp GoProxy
 	p := gp.GetNewProxy()
 	var ulogin = new(login)
 	ulogin.Username = "ken"
@@ -50,7 +51,7 @@ func TestGoProxy_Do(t *testing.T) {
 }
 
 func TestGoProxy_DoFail(t *testing.T) {
-	var gp GoProxy	
+	var gp GoProxy
 	p := gp.GetNewProxy()
 	var ulogin = new(login)
 	ulogin.Username = "ken"
@@ -82,7 +83,7 @@ func TestGoProxy_DoFail(t *testing.T) {
 }
 
 func TestGoProxy_DoFail2(t *testing.T) {
-	var gp GoProxy	
+	var gp GoProxy
 	p := gp.GetNewProxy()
 	var ulogin = new(login)
 	ulogin.Username = "ken"
