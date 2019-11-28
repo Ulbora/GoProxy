@@ -1,12 +1,12 @@
 mode: set
-github.com/Ulbora/GoProxy/MockGoProxy.go:17.74,21.18 4 1
-github.com/Ulbora/GoProxy/MockGoProxy.go:24.2,24.41 1 1
-github.com/Ulbora/GoProxy/MockGoProxy.go:21.18,23.3 1 1
-github.com/Ulbora/GoProxy/MockGoProxy.go:28.43,32.2 3 1
-github.com/Ulbora/GoProxy/goProxy.go:15.70,20.16 5 1
-github.com/Ulbora/GoProxy/goProxy.go:34.2,34.20 1 1
-github.com/Ulbora/GoProxy/goProxy.go:20.16,23.3 2 1
-github.com/Ulbora/GoProxy/goProxy.go:23.8,28.19 5 1
-github.com/Ulbora/GoProxy/goProxy.go:28.19,30.4 1 1
-github.com/Ulbora/GoProxy/goProxy.go:30.9,32.4 1 1
-github.com/Ulbora/GoProxy/goProxy.go:38.39,42.2 3 1
+github.com/Ulbora/GoProxy/goProxy.go:16.70,21.16 5 1
+github.com/Ulbora/GoProxy/goProxy.go:35.2,35.20 1 1
+github.com/Ulbora/GoProxy/goProxy.go:21.16,24.3 2 1
+github.com/Ulbora/GoProxy/goProxy.go:24.8,29.19 5 1
+github.com/Ulbora/GoProxy/goProxy.go:29.19,31.4 1 1
+github.com/Ulbora/GoProxy/goProxy.go:31.9,33.4 1 1
+github.com/Ulbora/GoProxy/goProxy.go:39.39,43.2 3 1
+github.com/Ulbora/GoProxy/mockGoProxy.go:17.74,21.18 4 1
+github.com/Ulbora/GoProxy/mockGoProxy.go:24.2,24.41 1 1
+github.com/Ulbora/GoProxy/mockGoProxy.go:21.18,23.3 1 1
+github.com/Ulbora/GoProxy/mockGoProxy.go:28.43,32.2 3 1
